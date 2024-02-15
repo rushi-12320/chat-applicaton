@@ -1,5 +1,5 @@
 # chat-applicaton - A React JS Chat Application
-snap is a Realtime React JS Chat Application using Socket.io and MongoDb
+snappy is a Realtime React JS Chat Application using Socket.io and MongoDb
 Type and Run yarn install
 
 Run yarn start to start back end server
