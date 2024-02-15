@@ -1,10 +1,5 @@
 # chat-applicaton
-Snappy is a Realtime React JS Chat Application using Socket.io and MongoDb
-📌 How to use this App?
-Clone this repository to your local computer.
-
-Open terminal in root directory and cd server
-
+Hatsoff is a Realtime React JS Chat Application using Socket.io and MongoDb
 Type and Run yarn install
 
 Run yarn start to start back end server
